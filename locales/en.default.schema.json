@@ -16,7 +16,7 @@
         },
         "corner_radius": {
           "label": "Corner radius"
-        },       
+        },
         "horizontal_offset": {
           "label": "Horizontal offset"
         },
@@ -325,6 +325,13 @@
     }
   },
   "sections": {
+    "all": {
+      "padding": {
+        "section_padding_heading": "Section padding",
+        "padding_top": "Top padding",
+        "padding_bottom": "Bottom padding"
+      }
+    },
     "announcement-bar": {
       "name": "Announcement bar",
       "blocks": {
@@ -438,7 +445,7 @@
             },
             "second_image": {
               "label": "Show second image on hover"
-            }           
+            }
           }
         },
         "collection": {
@@ -493,7 +500,7 @@
             "label": "Square"
           },
           "info": "Add images by editing your collections. [Learn more](https://help.shopify.com/en/manual/products/collections)"
-        },       
+        },
         "swipe_on_mobile": {
           "label": "Enable swipe on mobile"
         },
@@ -601,7 +608,7 @@
         },
         "show_secondary_image": {
           "label": "Show second image on hover"
-        },      
+        },
         "show_vendor": {
           "label": "Show vendor"
         },
@@ -1242,7 +1249,7 @@
         },
         "show_secondary_image": {
           "label": "Show second image on hover"
-        },       
+        },
         "show_vendor": {
           "label": "Show vendor"
         },
@@ -1304,7 +1311,7 @@
             "label": "Square"
           },
           "info": "Add images by editing your collections. [Learn more](https://help.shopify.com/en/manual/products/collections)"
-        }  
+        }
       }
     },
     "main-page": {
@@ -1590,7 +1597,7 @@
         },
         "show_secondary_image": {
           "label": "Show second image on hover"
-        },       
+        },
         "show_vendor": {
           "label": "Show vendor"
         },
@@ -1886,7 +1893,7 @@
         },
         "show_secondary_image": {
           "label": "Show second image on hover"
-        },   
+        },
         "show_vendor": {
           "label": "Show vendor"
         },
